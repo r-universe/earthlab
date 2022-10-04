@@ -1,5 +1,9 @@
 [
   {
+    "package": "cft",
+    "oncran": true
+  },
+  {
     "package": "leri",
     "oncran": true
   }
