@@ -6,5 +6,9 @@
   {
     "package": "leri",
     "oncran": true
+  },
+  {
+    "package": "rslurm",
+    "oncran": true
   }
 ]

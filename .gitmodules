@@ -13,3 +13,8 @@
 	url = https://github.com/earthlab/leri
 	shallow = true
 	registered = true
+[submodule "rslurm"]
+	path = rslurm
+	url = https://github.com/earthlab/rslurm
+	shallow = true
+	registered = true
