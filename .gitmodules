@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "cft"]
 	path = cft
 	url = https://github.com/earthlab/cft-cran
-	shallow = true
-	registered = true
 [submodule "leri"]
 	path = leri
 	url = https://github.com/earthlab/leri
-	shallow = true
-	registered = true
 [submodule "rslurm"]
 	path = rslurm
 	url = https://github.com/earthlab/rslurm
-	shallow = true
-	registered = true
