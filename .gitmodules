@@ -5,9 +5,6 @@
 [submodule "cft"]
 	path = cft
 	url = https://github.com/earthlab/cft-cran
-[submodule "leri"]
-	path = leri
-	url = https://github.com/earthlab/leri
 [submodule "rslurm"]
 	path = rslurm
 	url = https://github.com/earthlab/rslurm
